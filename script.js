@@ -40,7 +40,7 @@ function enterSearch() {
 }
 function myFunction() {
     var x = document.getElementById("text").value;
-    window.location.href = "index.html/search"+x;
+    window.location.href = "https://cixtan.github.io/web1/search"+"/"+x;
 }
 
 // 검색창 기능 끝
